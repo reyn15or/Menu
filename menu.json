@@ -1,0 +1,127 @@
+{
+"Menu":[
+{
+	"Nombre": "Orden de Tacos",
+	"Descripcion": "Tortilla de maiz con carne(de bistec o trompo) y si gusta cilantro y cebolla, aparte cebolla frita y zanahorias, lleva 5 tacos",
+	"Precio": "$70",
+	"Imagen":"img1.jpg"
+}
+{
+	"Nombre": "Tacos de harina",
+	"Descripcion": "Tortilla de harina con carne(de bistec o trompo) y si gusta cilantro y cebolla, aparte cebolla frita y zanahorias, tiene 5 tacos",
+	"Precio": "$85",
+	"Imagen":"img2.jpg"
+}
+{
+	"Nombre": "Tacos de Barbacoa",
+	"Descripcion": "Solo venta los domingos. Tortilla de maiz o harina con barbacoa y si gusta cilantro y cebolla",
+	"Precio": "$80",
+	"Imagen":"img3.jpg"
+}
+{
+	"Nombre": "Sincronizada de Bistec",
+	"Descripcion": "Tortilla de harina grande con carne de bistec, frijol, queso amarillo, queso oaxaca, tomate, cebolla, aguacate y lechuga, cebolla frita",
+	"Precio": "$80",
+	"Imagen":"img4.jpg"
+}
+{
+	"Nombre": "Sincronizada de Trompo",
+	"Descripcion": "Tortilla de harina grande con carne de trompo, frijol, queso amarillo, queso oaxaca, tomate, cebolla, aguacate y lechuga, cebolla frita",
+	"Precio": "$80",
+	"Imagen":"img5.jpg"
+}
+{
+	"Nombre": "Sincronizada Mixta",
+	"Descripcion": "Tortilla de harina grande con carne de trompo y bistec, frijol, queso amarillo, queso oaxaca, tomate, cebolla, aguacate y lechuga, cebolla frita",
+	"Precio": "$90",
+	"Imagen":"img6.jpg"
+}
+{
+	"Nombre": "Papa Asada",
+	"Descripcion": "Papa asada con crema, queso amarillo y blanco y mantequilla",
+	"Precio": "$80",
+	"Imagen":"img7.jpg"
+}
+{
+	"Nombre": "Papa Asada especial",
+	"Descripcion": "Papa asada con crema, queso amarillo y blanco y mantequilla, y el tipo de carne que guste(bistec, trompo o mixta)",
+	"Precio": "$90",
+	"Imagen":"img8.jpg"
+}
+{
+	"Nombre": "Torta de bistec",
+	"Descripcion": "Bolillo con mayonesa, carne de bistec, cilantro y cebolla, aguacate, tomate y cebolla frita",
+	"Precio": "$40",
+	"Imagen":"img9.jpg"
+}
+{
+	"Nombre": "Torta especial",
+	"Descripcion": "Bolillo con mayonesa, carne de trompo o mixta, cilantro y cebolla, aguacate, tomate y cebolla frita",
+	"Precio": "$45",
+	"Imagen":"img10.jpg"
+}
+{
+	"Nombre": "Torta SuoerEspecial",
+	"Descripcion": "Solo venta Sabados y Domingos. Bolillo con mayonesa, carne de ternera, cilantro y cebolla, aguacate, tomate y cebolla frita",
+	"Precio": "$48",
+	"Imagen":"img11.jpg"
+}
+{
+	"Nombre": "Menudo",
+	"Descripcion": "Solo los Domingos. Caldo con pancita de la vaca",
+	"Precio": "$100",
+	"Imagen":"img12.jpg"
+}
+{
+	"Nombre": "Panchos",
+	"Descripcion": "Totopos con carne de bistec, trompo o mixta, con frijoles, con queso amarillo, crema, cebolla y tomate",
+	"Precio": "$120",
+	"Imagen":"img13.jpg"
+}
+{
+	"Nombre": "Hot-Dogs Sencillo",
+	"Descripcion": "Pan, salchicha, mayonesa, mostaza, catsup, y si gusta tomate, cebolla y chiles en vinagre",
+	"Precio": "c/u $20",
+	"Imagen":"img14.jpg"
+}
+{
+	"Nombre": "Hot-Dogs con Chili",
+	"Descripcion": "Pan, salchicha, mayonesa, chili y queso amarillo",
+	"Precio": "c/u $40",
+	"Imagen":"img15.jpg"
+}
+{
+	"Nombre": "Hot-Dogs Embarazado",
+	"Descripcion": "Pan, salchicha envuelta en tocino, guacamole, cebolla frita, catsup y mostaza",
+	"Precio": "c/u $45",
+	"Imagen":"img16.jpg"
+}
+{
+	"Nombre": "Hamburguesa sencilla",
+	"Descripcion": "Pan con carne, queso amarillo, tomate, cebolla, pepinillos y lechuga",
+	"Precio": "70",
+	"Imagen":"img17.jpg"
+}
+{
+
+	"Nombre": "Hamburguesa con piña",
+	"Descripcion": "Pan con carne, queso amarillo, piña, aros de cebolla, tomate, cebolla, pepinillos y lechuga",
+	"Precio": "120",
+	"Imagen":"img18.jpg"
+}
+{
+
+	"Nombre": "Hamburgesa con doble carne",
+	"Descripcion": "Pan con doble carne, queso amarillo, tomate, cebolla, pepinillos y lechuga",
+	"Precio": "90",
+	"Imagen":"img19.jpg"
+}
+{
+
+	"Nombre": "Hamburguesa especial",
+	"Descripcion": "Pan con carne, salchihca, queso amarillo, piña, tomate, cebolla, pepinillos y lechuga",
+	"Precio": "140",
+	"Imagen":"img20.jpg"
+}
+]
+}
